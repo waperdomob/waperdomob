@@ -6,9 +6,10 @@
 </div>
 
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Software Engineering
+- 📫 My profile on linkedin is https://www.linkedin.com/in/wilmer-a-perdomob1993/
+
+- I always want to learn something more, so I decided to start learning Node.js and express.js 
 
 <!---
 waperdomob/waperdomob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
